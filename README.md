@@ -8,3 +8,4 @@ css/
  style.css
  js/
  script.js
+headphones.fig
